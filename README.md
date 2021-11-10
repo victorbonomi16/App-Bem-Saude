@@ -119,8 +119,8 @@ O projeto foi desenvolvido na plataforma Expo Snack(permite criar apps por um ed
 </details>
 <br>
 
-&#x1F4D6;<i>"15 anos a trás, a internet era uma maneira de fugir do mundo real, hoje o mundo real é uma maneira de fugir da internet".<br> 
-by: John </i> 
+&#x1F4D6;<i>"Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil".<br> 
+by: Thomas Edison </i> 
 
 
 
